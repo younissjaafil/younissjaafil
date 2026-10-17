@@ -1,22 +1,31 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Youniss Jaafil | Software Engineer and AI Product Engineer" width="100%" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Youniss Jaafil — Software Engineer and AI Product Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/younissjaafil?tab=repositories">Repositories</a> &nbsp;·&nbsp;
-  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
-  <a href="#engineering-stack">Engineering stack</a>
+  <a href="https://www.linkedin.com/in/youniss-jaafil/"><img src="https://img.shields.io/badge/LinkedIn-0C1829?style=flat-square&logo=linkedin&logoColor=58B9FF" alt="LinkedIn"/></a>
+  <a href="https://github.com/younissjaafil?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0C1829?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub repositories"/></a>
+  <img src="https://img.shields.io/badge/Lebanon-0C1829?style=flat-square&logoColor=FFFFFF" alt="Lebanon"/>
 </p>
 
-### A little about me
+### Hey, I'm Youniss.
 
-I started out building web applications, then moved deeper into backend development, cloud infrastructure, and AI systems.
+I'm a software engineer working on AI-powered products at **Aspire Software**.
 
-Today, I work across the stack with a particular focus on making AI features reliable in real products. That means thinking beyond prompts: tool selection, context handling, evaluation, latency, integrations, deployment, and the experience people actually use.
+I started building software in 2021, first with web applications and full-stack projects. My work gradually moved into backend architecture, cloud infrastructure, and AI engineering. Today, I spend most of my time on the less glamorous but important parts of AI products: **tool reliability, context, evaluation, latency, and getting systems safely into production**.
 
-A lot of that work happens in private product repositories. This profile also includes earlier projects, experiments, and things I built while learning. I keep them here because they show the path, not just the current destination.
+I enjoy working across the stack, from the interface people use to the services, data, and deployment underneath it.
 
-### Selected work
+### What I'm working on
+
+```text
+AI PRODUCTS       Agent orchestration · MCP integrations · Tool calling
+RELIABILITY       Evaluation suites · Context and memory · Failure handling
+BACKEND SYSTEMS   APIs · PostgreSQL · Service integrations · Observability
+INFRASTRUCTURE    AWS · Docker · Railway · CI/CD
+```
+
+### Selected projects
 
 <table>
 <tr>
@@ -24,64 +33,73 @@ A lot of that work happens in private product repositories. This profile also in
 
 **[AthenaCore](https://github.com/younissjaafil/AthenaCore)**
 
-AI agent platform backend built with NestJS. Includes conversation persistence, retrieval, document handling, authentication, and integrations.
+AI-agent platform backend with document retrieval, conversation persistence, authentication, and service integrations.
 
-<sub>Backend · AI · PostgreSQL · RAG</sub>
+<sub>NestJS · PostgreSQL · RAG · Redis</sub>
 
 </td>
 <td width="50%" valign="top">
 
 **[Universal AI Agent UI](https://github.com/younissjaafil/agent-frontend)**
 
-React interface for managing agents, chatting, working with uploaded files, and using voice features.
+Agent management and chat interface, including file uploads, conversation history, and voice interactions.
 
-<sub>React · JavaScript · Product UI</sub>
+<sub>React · JavaScript · Tailwind CSS</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Ecommerce Backend](https://github.com/younissjaafil/Ecommerce-Backend)**
+**[AI Voice](https://github.com/younissjaafil/Ai-Voice)**
 
-An earlier backend project from my full-stack development work.
+Voice-generation experimentation using the XTTS-v2 model and a Gradio interface.
 
-<sub>Java · Backend</sub>
+<sub>Python · Voice AI · Gradio</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**[DevOps Capstone](https://github.com/younissjaafil/DevOps-Capstone-Project)**
+**[Ecommerce Backend](https://github.com/younissjaafil/Ecommerce-Backend)**
 
-A repository from my infrastructure and DevOps learning work.
+One of my earlier backend repositories from the full-stack development chapter.
 
-<sub>DevOps · Software delivery</sub>
+<sub>Java · Backend engineering</sub>
 
 </td>
 </tr>
 </table>
 
-[Explore all public repositories →](https://github.com/younissjaafil?tab=repositories)
+**More work:** [AI and agent projects](https://github.com/younissjaafil?tab=repositories&q=agent) · [All repositories](https://github.com/younissjaafil?tab=repositories)
 
-### Engineering stack
+> Some of the production AI systems I work on belong to private company repositories. Public projects here represent my personal work, experiments, and earlier engineering experience.
 
-| Focus | Technologies & practices |
-| --- | --- |
-| **AI engineering** | Agents, MCP, tool calling, RAG, evaluations, conversation context |
-| **Backend & data** | Python, Node.js, TypeScript, Java, PostgreSQL, REST APIs |
-| **Frontend** | React, JavaScript, HTML, CSS |
-| **Infrastructure** | AWS, Docker, Railway, CI/CD, observability |
+### Tools I use
 
-### What I pay attention to
+| | |
+| :-- | :-- |
+| **AI & orchestration** | Agent frameworks, MCP, tool calling, retrieval, evaluations |
+| **Languages** | Python, TypeScript, JavaScript, Java |
+| **Backend & data** | Node.js, NestJS, PostgreSQL, Redis, REST APIs |
+| **Frontend** | React, Tailwind CSS |
+| **Cloud & delivery** | AWS, Railway, Docker, GitHub Actions, monitoring |
 
-**Correctness over demos.** Reliable integrations and meaningful evaluations matter more than a convincing one-off output.
+### Beyond the code
 
-**Latency is a product feature.** Measuring model time, database access, and tool round-trips is part of building a usable system.
+I studied Computer Science at **Lebanese International University**, where I served as **President of the Computer Science Club for two years**, helping lead a community of over **300 students** through technical events, workshops, and mentorship. I was also recognized on the university's Honor List for three consecutive years.
 
-**Good software survives changes.** Clear boundaries, testing, and straightforward rollback paths make iteration easier.
+I still enjoy mentoring and teaching. Explaining a concept clearly is a good test of whether I understand it.
+
+### How I approach engineering
+
+- **Build for the real workflow.** A feature matters when it solves a problem for the person using it.
+- **Measure before optimizing.** Latency, accuracy, and reliability need observable evidence.
+- **Keep the system understandable.** Straightforward designs, testing, and rollback paths beat accidental complexity.
 
 ---
 
 <p align="center">
-  <sub>Based in Lebanon · <a href="https://github.com/younissjaafil?tab=repositories">View my work on GitHub</a></sub>
+  <sub>Software engineering since 2021 · Based in Lebanon</sub>
+  <br/>
+  <sub><a href="https://www.linkedin.com/in/youniss-jaafil/">LinkedIn</a> · <a href="https://github.com/younissjaafil?tab=repositories">Explore my repositories</a></sub>
 </p>
