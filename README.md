@@ -1,49 +1,87 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Youniss Jaafil | Software Engineer and AI Product Engineer" width="100%" />
+</p>
 
-# Youniss Jaafil
+<p align="center">
+  <a href="https://github.com/younissjaafil?tab=repositories">Repositories</a> &nbsp;·&nbsp;
+  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="#engineering-stack">Engineering stack</a>
+</p>
 
-**AI Product Engineer · Full Stack Software Engineer**
+### A little about me
 
-I build AI-powered product features and the systems behind them.
+I started out building web applications, then moved deeper into backend development, cloud infrastructure, and AI systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/younissjaafil)
-![Location](https://img.shields.io/badge/Based_in-Lebanon-0D2038?style=flat-square&labelColor=161B22&color=2563EB)
+Today, I work across the stack with a particular focus on making AI features reliable in real products. That means thinking beyond prompts: tool selection, context handling, evaluation, latency, integrations, deployment, and the experience people actually use.
 
-</div>
-
----
-
-### About
-
-I work across **AI engineering, backend systems, and product development**. My focus is building useful AI features that hold up in production: reliable tool calls, clear evaluation criteria, predictable latency, and maintainable integrations.
-
-Recently, I've been working with agent orchestration, Model Context Protocol (MCP), retrieval and conversation context, API services, and cloud deployments.
-
-### What I work with
-
-| Area | Tools & technologies |
-| :--- | :--- |
-| **AI systems** | Agent orchestration, MCP, LLM evaluation, tool calling, context & memory |
-| **Backend** | Python, Node.js, TypeScript, REST APIs, PostgreSQL |
-| **Frontend** | React, JavaScript, HTML, CSS |
-| **Infrastructure** | AWS, Docker, Railway, GitHub Actions, observability |
+A lot of that work happens in private product repositories. This profile also includes earlier projects, experiments, and things I built while learning. I keep them here because they show the path, not just the current destination.
 
 ### Selected work
 
-A few public repositories from my GitHub:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **[Ecommerce-Backend](https://github.com/younissjaafil/Ecommerce-Backend)** — backend application code.
-- **[DevOps-Capstone-Project](https://github.com/younissjaafil/DevOps-Capstone-Project)** — DevOps project work.
-- **[web-dev-projects](https://github.com/younissjaafil/web-dev-projects)** — web development projects.
+**[AthenaCore](https://github.com/younissjaafil/AthenaCore)**
 
-> Most of my recent AI engineering work is in private product repositories. I'm gradually documenting reusable patterns and smaller public examples here.
+AI agent platform backend built with NestJS. Includes conversation persistence, retrieval, document handling, authentication, and integrations.
 
-### Engineering interests
+<sub>Backend · AI · PostgreSQL · RAG</sub>
 
-`Agent reliability` · `Evaluation` · `Latency` · `API design` · `Distributed systems` · `Developer experience`
+</td>
+<td width="50%" valign="top">
+
+**[Universal AI Agent UI](https://github.com/younissjaafil/agent-frontend)**
+
+React interface for managing agents, chatting, working with uploaded files, and using voice features.
+
+<sub>React · JavaScript · Product UI</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Ecommerce Backend](https://github.com/younissjaafil/Ecommerce-Backend)**
+
+An earlier backend project from my full-stack development work.
+
+<sub>Java · Backend</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[DevOps Capstone](https://github.com/younissjaafil/DevOps-Capstone-Project)**
+
+A repository from my infrastructure and DevOps learning work.
+
+<sub>DevOps · Software delivery</sub>
+
+</td>
+</tr>
+</table>
+
+[Explore all public repositories →](https://github.com/younissjaafil?tab=repositories)
+
+### Engineering stack
+
+| Focus | Technologies & practices |
+| --- | --- |
+| **AI engineering** | Agents, MCP, tool calling, RAG, evaluations, conversation context |
+| **Backend & data** | Python, Node.js, TypeScript, Java, PostgreSQL, REST APIs |
+| **Frontend** | React, JavaScript, HTML, CSS |
+| **Infrastructure** | AWS, Docker, Railway, CI/CD, observability |
+
+### What I pay attention to
+
+**Correctness over demos.** Reliable integrations and meaningful evaluations matter more than a convincing one-off output.
+
+**Latency is a product feature.** Measuring model time, database access, and tool round-trips is part of building a usable system.
+
+**Good software survives changes.** Clear boundaries, testing, and straightforward rollback paths make iteration easier.
 
 ---
 
-<div align="center">
-  <sub>Built and maintained by Youniss · <a href="https://github.com/younissjaafil?tab=repositories">Browse repositories</a></sub>
-</div>
+<p align="center">
+  <sub>Based in Lebanon · <a href="https://github.com/younissjaafil?tab=repositories">View my work on GitHub</a></sub>
+</p>
